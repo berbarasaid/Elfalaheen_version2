@@ -1,0 +1,83 @@
+
+
+.mmm{
+  border-radius: 20px 20px;
+  width: 300px;
+  border: 2px black solid;
+  box-shadow: 10px 10px 25px;
+  display:inline-block;
+
+}
+.pp{
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+  h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    color: rgb(5, 5, 101);
+  }
+  p{
+    color: rgb(0 0 0 / 45%);
+    padding: 0  50px;
+    
+  }
+  #cc{
+    border-radius: 20px 20px 0 0 ;
+    width: 100%;
+    height: auto;
+  }
+  .pp button{
+    background: linear-gradient( 45deg ,  rgb(56, 195, 195), rgb(152, 75, 197) );
+    border-radius: 50px;
+   margin: 20px;
+   text-align: center;
+   /* padding: 15px; */
+   width: 150px;
+   height: auto;
+   font-size: 25px;
+   color: aliceblue;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   /* width: 150px; */
+  }
+  section{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  table{
+   
+   margin-top: 5cap;
+    border-collapse: collapse;
+    width: 600px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+   overflow: hidden;
+   
+  }
+  tr{
+    border-bottom: 3px black solid;
+    border-radius: 30%;
+  }
+   thead{
+    background-color: rgb(176, 129, 219);
+    border-radius: 30%;
+   }
+   .nn{
+   overflow: hidden;
+    width: 600px;
+    border-radius: 30px;
+   
+    
+   
+   }
+   tbody tr td:nth-child(4){
+    color: blue;
+   }
+   
+   td{
+    color: rgb(0, 0, 0);
+   }
+ 
